@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2017",                                  
+    "module": "commonjs",                               
+    "esModuleInterop": true,                           
+    "forceConsistentCasingInFileNames": true,  
+    "allowJs": true,         //isso é bom pq tem algumas bibiliotecas que não possuem suporte a typescript, dessa forma 
+    "strict": true,                                     
+    "skipLibCheck": true                               
+  },
+  
+}
